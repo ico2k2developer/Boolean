@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug amd64" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio amd64" />
+      <configuration PROFILE_NAME="Release amd64" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio amd64" />
+      <configuration PROFILE_NAME="RelWithDebInfo amd64" ENABLED="true" CONFIG_NAME="RelWithDebInfo" TOOLCHAIN_NAME="Visual Studio amd64" />
+      <configuration PROFILE_NAME="MinSizeRel amd64" ENABLED="true" CONFIG_NAME="MinSizeRel" TOOLCHAIN_NAME="Visual Studio amd64" />
+      <configuration PROFILE_NAME="Debug x86" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio x86" />
+      <configuration PROFILE_NAME="Release x86" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio x86" />
+      <configuration PROFILE_NAME="RelWithDebInfo x86" ENABLED="true" CONFIG_NAME="RelWithDebInfo" TOOLCHAIN_NAME="Visual Studio x86" />
+      <configuration PROFILE_NAME="MinSizeRel x86" ENABLED="true" CONFIG_NAME="MinSizeRel" TOOLCHAIN_NAME="Visual Studio x86" />
+    </configurations>
+  </component>
+</project>
